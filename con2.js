@@ -39,6 +39,6 @@ function render() {
 }
 render();
 
-export default Avatar;
+
 
 
