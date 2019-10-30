@@ -49,3 +49,19 @@ button:hover,
 a:hover {
   opacity: 0.7;
 }
+
+/* style the form a little*/
+#form{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+#form label, button{
+  margin: 1em;
+}
+
+#form button{
+  width: 20%;
+}
+
