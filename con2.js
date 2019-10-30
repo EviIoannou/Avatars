@@ -1,0 +1,8 @@
+function Avatar(name, age, type, image) {
+    this.name = name;
+    this.age = age;
+    this.type = type;
+    this.image = image
+}
+
+export default Avatar;
